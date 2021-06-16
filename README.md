@@ -1,5 +1,5 @@
 # BEMA
-Code for the paper "Estimation of the Number of Spiked Eigenvalues in a Covariance Matrix by Bulk Eigenvalue Matching Analysis".
+Code for the paper "Estimation of the Number of Spiked Eigenvalues in a Covariance Matrix by Bulk Eigenvalue Matching Analysis" (https://arxiv.org/abs/2006.00436).
 
 BEMA0.R and BEMA.R contain the R code for the two algorithms. By default, the value of beta is 0.1 and M is 500. The value of alpha requires the user's input.  
 
